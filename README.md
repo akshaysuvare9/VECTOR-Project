@@ -11,3 +11,6 @@ Protocols Used:
 UART
 I2C
 SPI
+
+Microcontroller used:
+AT89C51
